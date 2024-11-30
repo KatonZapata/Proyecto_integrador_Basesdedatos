@@ -1,0 +1,226 @@
+idEstudiante	nombreEst	apellidoEst	telefEs	dirEst	emailEst	edadEst
+1000000001	 Juan	 Pérez	1234567890	 Calle Falsa 123	 juan.perez@example.com	20
+1000000002	 Ana	 González	1234567891	 Av. Libertad 456	 ana.gonzalez@example.com	22
+1000000003	 Carlos	 Martínez	1234567892	 Calle Real 789	 carlos.martinez@example.com	19
+1000000004	 Laura	 Rodríguez	1234567893	 Calle del Sol 101	 laura.rodriguez@example.com	18
+1000000005	 Luis	 Hernández	1234567894	 Calle Nueva 202	 luis.hernandez@example.com	21
+1000000006	 Marta	 López	1234567895	 Calle Mayor 303	 marta.lopez@example.com	23
+1000000007	 Pedro	 Gómez	1234567896	 Calle del Mar 404	 pedro.gomez@example.com	24
+1000000008	 Elena	 Sánchez	1234567897	 Calle del Lago 505	 elena.sanchez@example.com	20
+1000000009	 Sergio	 Díaz	1234567898	 Av. de la Paz 606	 sergio.diaz@example.com	19
+1000000010	 Carla	 Jiménez	1234567899	 Calle Larga 707	 carla.jimenez@example.com	22
+1000000011	 Luis	 Martínez	1234567900	 Calle del Río 808	 luis.martinez@example.com	24
+1000000012	 Natalia	 Gómez	1234567901	 Calle del Bosque 909	 natalia.gomez@example.com	19
+1000000013	 Jorge	 Rodríguez	1234567902	 Calle de la Luna 1010	 jorge.rodriguez@example.com	18
+1000000014	 Mónica	 Pérez	1234567903	 Calle de la Estrella 1111	 monica.perez@example.com	20
+1000000015	 Raúl	 Sánchez	1234567904	 Calle del Sol 1212	 raul.sanchez@example.com	23
+1000000016	 Pablo	 López	1234567905	 Calle Primavera 1313	 pablo.lopez@example.com	25
+1000000017	 Beatriz	 González	1234567906	 Calle del Viento 1414	 beatriz.gonzalez@example.com	22
+1000000018	 Álvaro	 Hernández	1234567907	 Calle del Mar 1515	 alvaro.hernandez@example.com	21
+1000000019	 Silvia	 Martínez	1234567908	 Calle del Águila 1616	 silvia.martinez@example.com	18
+1000000020	 Ricardo	 Jiménez	1234567909	 Calle del Sol 1717	 ricardo.jimenez@example.com	24
+1000000021	 Isabel	 Gómez	1234567910	 Calle de la Nieve 1818	 isabel.gomez@example.com	22
+1000000022	 Antonio	 Rodríguez	1234567911	 Calle del Lago 1919	 antonio.rodriguez@example.com	23
+1000000023	 Carolina	 López	1234567912	 Calle del Bosque 2020	 carolina.lopez@example.com	19
+1000000024	 Felipe	 Pérez	1234567913	 Calle de la Luna 2121	 felipe.perez@example.com	20
+1000000025	 María	 Sánchez	1234567914	 Calle del Viento 2222	 maria.sanchez@example.com	21
+1000000026	 Carlos	 Hernández	1234567915	 Calle de la Estrella 2323	 carlos.hernandez@example.com	22
+1000000027	 Javier	 Martínez	1234567916	 Calle Real 2424	 javier.martinez@example.com	23
+1000000028	 Valeria	 Rodríguez	1234567917	 Calle Larga 2525	 valeria.rodriguez@example.com	19
+1000000029	 David	 Gómez	1234567918	 Calle del Río 2626	 david.gomez@example.com	20
+1000000030	 Clara	 Hernández	1234567919	 Calle Primavera 2727	 clara.hernandez@example.com	24
+1000000031	 Pedro	 Sánchez	1234567920	 Calle Nueva 2828	 pedro.sanchez@example.com	22
+1000000032	 Rosa	 Martínez	1234567921	 Calle del Sol 2929	 rosa.martinez@example.com	21
+1000000033	 Santiago	 Jiménez	1234567922	 Calle del Lago 3030	 santiago.jimenez@example.com	23
+1000000034	 Cristina	 Rodríguez	1234567923	 Calle del Bosque 3131	 cristina.rodriguez@example.com	18
+1000000035	 Eva	 Pérez	1234567924	 Calle Real 3232	 eva.perez@example.com	22
+1000000036	 José	 Sánchez	1234567925	 Calle del Río 3333	 jose.sanchez@example.com	25
+1000000037	 Lorena	 López	1234567926	 Calle de la Luna 3434	 lorena.lopez@example.com	19
+1000000038	 Fernando	 Gómez	1234567927	 Calle del Viento 3535	 fernando.gomez@example.com	20
+1000000039	 Ricardo	 Rodríguez	1234567928	 Calle Estrella 3636	 ricardo.rodriguez@example.com	21
+1000000040	 Patricia	 Martínez	1234567929	 Calle Mayor 3737	 patricia.martinez@example.com	22
+1000000041	 Marco	 Hernández	1234567930	 Calle de la Nieve 3838	 marco.hernandez@example.com	18
+1000000042	 Irene	 Jiménez	1234567931	 Calle del Lago 3939	 irene.jimenez@example.com	24
+1000000043	 Rubén	 Gómez	1234567932	 Calle del Bosque 4040	 ruben.gomez@example.com	19
+1000000044	 Luis	 Rodríguez	1234567933	 Calle Real 4141	 luis.rodriguez@example.com	20
+1000000045	 Juliana	 Sánchez	1234567934	 Calle Nueva 4242	 juliana.sanchez@example.com	23
+1000000046	 Óscar	 López	1234567935	 Calle del Sol 4343	 oscar.lopez@example.com	21
+1000000047	 Marina	 Pérez	1234567936	 Calle Estrella 4444	 marina.perez@example.com	19
+1000000048	 Antonio	 Jiménez	1234567937	 Calle del Río 4545	 antonio.jimenez@example.com	22
+1000000049	Manuel	González	1234567938	Calle Primavera 4646	manuel.gonzalez@example.com	23
+1000000050	Carmen	Hernández	1234567939	Calle del Lago 4747	carmen.hernandez@example.com	21
+1000000051	Antonio	López	1234567940	Calle del Bosque 4848	antonio.lopez@example.com	24
+1000000052	Susana	Rodríguez	1234567941	Calle Estrella 4949	susana.rodriguez@example.com	20
+1000000053	José	Morales	1234567942	Calle Mayor 5050	jose.morales@example.com	22
+1000000054	Victoria	Pérez	1234567943	Calle Real 5151	victoria.perez@example.com	18
+1000000055	Alfredo	Gómez	1234567944	Calle de la Nieve 5252	alfredo.gomez@example.com	19
+1000000056	Martín	Jiménez	1234567945	Calle del Viento 5353	martin.jimenez@example.com	23
+1000000057	Margarita	Martínez	1234567946	Calle del Mar 5454	margarita.martinez@example.com	22
+1000000058	Guillermo	Rodríguez	1234567947	Calle Nueva 5555	guillermo.rodriguez@example.com	24
+1000000059	Lorena	González	1234567948	Calle del Sol 5656	lorena.gonzalez@example.com	19
+1000000060	Raúl	López	1234567949	Calle Estrella 5757	raul.lopez@example.com	21
+1000000061	Alicia	Hernández	1234567950	Calle del Río 5858	alicia.hernandez@example.com	20
+1000000062	Marcos	Pérez	1234567951	Calle del Bosque 5959	marcos.perez@example.com	19
+1000000063	Esther	Sánchez	1234567952	Calle del Lago 6060	esther.sanchez@example.com	22
+1000000064	Óscar	Martínez	1234567953	Calle Mayor 6161	oscar.martinez@example.com	21
+1000000065	Marta	Gómez	1234567954	Calle Larga 6262	marta.gomez@example.com	18
+1000000066	Alba	Rodríguez	1234567955	Calle Estrella 6363	alba.rodriguez@example.com	23
+1000000067	Luis	Sánchez	1234567956	Calle Real 6464	luis.sanchez@example.com	25
+1000000068	David	Martínez	1234567957	Calle Nueva 6565	david.martinez@example.com	22
+1000000069	Carmen	González	1234567958	Calle del Mar 6666	carmen.gonzalez@example.com	19
+1000000070	Isabel	Hernández	1234567959	Calle Primavera 6767	isabel.hernandez@example.com	24
+1000000071	Santiago	Jiménez	1234567960	Calle del Lago 6868	santiago.jimenez@example.com	20
+1000000072	Raquel	Pérez	1234567961	Calle del Bosque 6969	raquel.perez@example.com	19
+1000000073	Paula	Gómez	1234567962	Calle Real 7070	paula.gomez@example.com	23
+1000000074	Victor	López	1234567963	Calle del Río 7171	victor.lopez@example.com	22
+1000000075	Clara	Sánchez	1234567964	Calle Larga 7272	clara.sanchez@example.com	18
+1000000076	Juliana	Martínez	1234567965	Calle del Mar 7373	juliana.martinez@example.com	20
+1000000077	Daniel	González	1234567966	Calle de la Nieve 7474	daniel.gonzalez@example.com	21
+1000000078	Julia	Hernández	1234567967	Calle del Bosque 7575	julia.hernandez@example.com	19
+1000000079	Ricardo	Sánchez	1234567968	Calle Primavera 7676	ricardo.sanchez@example.com	24
+1000000080	Laura	Rodríguez	1234567969	Calle Real 7777	laura.rodriguez@example.com	22
+1000000081	Javier	Jiménez	1234567970	Calle Estrella 7878	javier.jimenez@example.com	18
+1000000082	Susana	López	1234567971	Calle del Viento 7979	susana.lopez@example.com	20
+1000000083	Esteban	Pérez	1234567972	Calle Mayor 8080	esteban.perez@example.com	22
+1000000084	Cristina	González	1234567973	Calle Nueva 8181	cristina.gonzalez@example.com	21
+1000000085	Andrés	Rodríguez	1234567974	Calle del Lago 8282	andres.rodriguez@example.com	19
+1000000086	Patricia	Martínez	1234567975	Calle Larga 8383	patricia.martinez@example.com	20
+1000000087	Luis	Jiménez	1234567976	Calle del Río 8484	luis.jimenez@example.com	24
+1000000088	Oscar	Hernández	1234567977	Calle Primavera 8585	oscar.hernandez@example.com	22
+1000000089	Teresa	Rodríguez	1234567978	Calle del Mar 8686	teresa.rodriguez@example.com	19
+1000000090	Fernando	Pérez	1234567979	Calle Estrella 8787	fernando.perez@example.com	21
+1000000091	Carla	Sánchez	1234567980	Calle del Río 8888	carla.sanchez@example.com	23
+1000000092	David	González	1234567981	Calle del Bosque 8989	david.gonzalez@example.com	19
+1000000093	Raúl	Martínez	1234567982	Calle Mayor 9090	raul.martinez@example.com	22
+1000000094	Mónica	Pérez	1234567983	Calle del Lago 9191	monica.perez@example.com	20
+1000000095	Ricardo	López	1234567984	Calle Estrella 9292	ricardo.lopez@example.com	18
+1000000096	Alfonso	Rodríguez	1234567985	Calle Primavera 9393	alfonso.rodriguez@example.com	21
+1000000097	Isabel	Sánchez	1234567986	Calle Larga 9494	isabel.sanchez@example.com	24
+1000000098	Valeria	Jiménez	1234567987	Calle del Río 9595	valeria.jimenez@example.com	23
+1000000099	Susana	Martínez	1234567988	Calle Nueva 9696	susana.martinez@example.com	22
+1000000100	Felipe	Rodríguez	1234567989	Calle Estrella 9797	felipe.rodriguez@example.com	20
+1000000101	Martín	González	1234567990	Calle Primavera 9898	martin.gonzalez@example.com	24
+1000000102	Antonio	Hernández	1234567991	Calle Real 9999	antonio.hernandez@example.com	21
+1000000103	Lidia	Gómez	1234567992	Calle del Bosque 1010	lidia.gomez@example.com	19
+1000000104	Carlos	Sánchez	1234567993	Calle del Mar 1111	carlos.sanchez@example.com	22
+1000000105	Ana	López	1234567994	Calle Estrella 1212	ana.lopez@example.com	23
+1000000106	Paula	Jiménez	1234567995	Calle del Viento 1313	paula.jimenez@example.com	20
+1000000107	Sandra	Morales	1234567996	Calle Mayor 1414	sandra.morales@example.com	24
+1000000108	Raúl	Rodríguez	1234567997	Calle del Lago 1515	raul.rodriguez@example.com	18
+1000000109	Fernando	González	1234567998	Calle de la Nieve 1616	fernando.gonzalez@example.com	20
+1000000110	Laura	Pérez	1234567999	Calle del Bosque 1717	laura.perez@example.com	22
+1000000111	José	Rodríguez	1234568000	Calle Primavera 1818	jose.rodriguez@example.com	23
+1000000112	Teresa	Hernández	1234568001	Calle Real 1919	teresa.hernandez@example.com	21
+1000000113	Carla	Jiménez	1234568002	Calle del Mar 2020	carla.jimenez@example.com	18
+1000000114	Luis	González	1234568003	Calle del Río 2121	luis.gonzalez@example.com	19
+1000000115	Elena	Rodríguez	1234568004	Calle Estrella 2222	elena.rodriguez@example.com	20
+1000000116	Antonio	Pérez	1234568005	Calle del Lago 2323	antonio.perez@example.com	22
+1000000117	Isabel	Morales	1234568006	Calle de la Nieve 2424	isabel.morales@example.com	19
+1000000118	Javier	Sánchez	1234568007	Calle Larga 2525	javier.sanchez@example.com	21
+1000000119	Raquel	Gómez	1234568008	Calle del Río 2626	raquel.gomez@example.com	24
+1000000120	Sergio	Martínez	1234568009	Calle del Bosque 2727	sergio.martinez@example.com	23
+1000000121	Lucía	Jiménez	1234568010	Calle del Viento 2828	lucia.jimenez@example.com	20
+1000000122	Felipe	González	1234568011	Calle Real 2929	felipe.gonzalez@example.com	19
+1000000123	Victor	Hernández	1234568012	Calle Mayor 3030	victor.hernandez@example.com	21
+1000000124	Susana	Martínez	1234568013	Calle Primavera 3131	daniela.perez@example.com	24
+1000000125	Daniela	Pérez	1234568014	Calle del Lago 3232	ricardo.gonzalez@example.com	20
+1000000126	Ricardo	González	1234568015	Calle Estrella 3333	marcos.hernandez@example.com	19
+1000000127	Marcos	Hernández	1234568016	Calle del Río 3434	beatriz.jimenez@example.com	21
+1000000128	Beatriz	Jiménez	1234568017	Calle Real 3535	carlos.morales@example.com	23
+1000000129	Carlos	Morales	1234568018	Calle Larga 3636	patricia.gonzalez@example.com	22
+1000000130	Patricia	González	1234568019	Calle del Bosque 3737	andres.perez@example.com	20
+1000000131	Andrés	Pérez	1234568020	Calle Estrella 3838	valeria.sanchez@example.com	24
+1000000132	José	Rodríguez	1234568021	Calle Mayor 3939	luis.morales@example.com	19
+1000000133	Valeria	Sánchez	1234568022	Calle del Lago 4040	laura.hernandez@example.com	21
+1000000134	Luis	Morales	1234568023	Calle del Río 4141	clara.rodriguez@example.com	20
+1000000135	Laura	Hernández	1234568024	Calle Primavera 4242	sergio.jimenez@example.com	19
+1000000136	Clara	Rodríguez	1234568025	Calle del Bosque 4343	alvaro.gonzalez@example.com	22
+1000000137	Sergio	Jiménez	1234568026	Calle Larga 4444	monica.sanchez@example.com	24
+1000000138	Álvaro	González	1234568027	Calle Estrella 4545	elena.hernandez@example.com	20
+1000000139	Mónica	Sánchez	1234568028	Calle del Río 4646	luis.gomez@example.com	23
+1000000140	Elena	Hernández	1234568029	Calle del Lago 4747	jose.perez@example.com	19
+1000000141	Luis	Gómez	1234568030	Calle de la Nieve 4848	daniela.sanchez@example.com	20
+1000000142	José	Pérez	1234568031	Calle Real 4949	pedro.hernandez@example.com	24
+1000000143	Daniela	Sánchez	1234568032	Calle Estrella 5050	raul.sanchez@example.com	19
+1000000144	Patricia	Martínez	1234568033	Calle del Río 5151	beatriz.gomez@example.com	21
+1000000145	Carmen	González	1234568034	Calle Primavera 5252	victor.perez@example.com	22
+1000000146	Pedro	Hernández	1234568035	Calle Real 5353	teresa.jimenez@example.com	20
+1000000147	Raúl	Sánchez	1234568036	Calle del Bosque 5454	maria.rodriguez@example.com	21
+1000000148	Beatriz	Gómez	1234568037	Calle del Mar 5555	ruben.perez@example.com	19
+1000000149	Victor	Pérez	1234568038	Calle de la Nieve 5656	clara.gonzalez@example.com	23
+1000000150	Teresa	Jiménez	1234568039	Calle Estrella 5757	javier.lopez@example.com	24
+1000000151	María	Rodríguez	1234568040	Calle Primavera 5858	antonio.sanchez@example.com	22
+1000000152	Rubén	Pérez	1234568041	Calle del Río 5959	silvia.jimenez@example.com	21
+1000000153	Clara	González	1234568042	Calle del Lago 6060	raul.gonzalez@example.com	20
+1000000154	Javier	López	1234568043	Calle Estrella 6161	jose.lopez@example.com	23
+1000000155	Antonio	Sánchez	1234568044	Calle del Bosque 6262	paula.perez@example.com	24
+1000000156	Silvia	Jiménez	1234568045	Calle del Río 6363	juan.sanchez@example.com	19
+1000000157	Rául	González	1234568046	Calle del Lago 6464	teresa.lopez@example.com	22
+1000000158	José	López	1234568047	Calle Real 6565	alvaro.perez@example.com	25
+1000000159	Paula	Pérez	1234568048	Calle del Bosque 6566	marta.rodriguez@example.com	21
+1000000160	Carmen	González	1234568049	Calle del Viento 6666	patricia.perez@example.com	23
+1000000161	Juan	Sánchez	1234568050	Calle Nueva 6767	carlos.hernandez@example.com	19
+1000000162	Teresa	López	1234568051	Calle Primavera 6868	jose.sanchez@example.com	22
+1000000163	Álvaro	Pérez	1234568052	Calle del Lago 6969	beatriz.lopez@example.com	21
+1000000164	Marta	Rodríguez	1234568053	Calle Estrella 7070	carmen.rodriguez@example.com	20
+1000000165	Ricardo	López	1234568054	Calle Real 7171	clara.jimenez@example.com	22
+1000000166	Patricia	Pérez	1234568055	Calle del Bosque 7272	antonio.gonzalez@example.com	19
+1000000167	Valeria	Jiménez	1234568056	Calle del Río 7373	raul.hernandez@example.com	23
+1000000168	Carlos	Hernández	1234568057	Calle Estrella 7474	patricia.sanchez@example.com	21
+1000000169	Ricardo	Sánchez	1234568058	Calle del Lago 7575	javier.perez@example.com	20
+1000000170	Laura	Pérez	1234568059	Calle Real 7676	sergio.gonzalez@example.com	22
+1000000171	José	Sánchez	1234568060	Calle Nueva 7777	elena.jimenez@example.com	24
+1000000172	Beatriz	López	1234568061	Calle del Río 7878	teresa.perez@example.com	18
+1000000173	Carmen	Rodríguez	1234568062	Calle del Bosque 7979	marta.lopez@example.com	19
+1000000174	Clara	Jiménez	1234568063	Calle Larga 8080	jose.jimenez@example.com	23
+1000000175	Antonio	González	1234568064	Calle Estrella 8181	sandra.perez@example.com	21
+1000000176	Rául	Hernández	1234568065	Calle Real 8282	cristina.rodriguez@example.com	19
+1000000177	Patricia	Sánchez	1234568066	Calle del Bosque 8383	pablo.sanchez@example.com	24
+1000000178	Javier	Pérez	1234568067	Calle del Lago 8484	laura.jimenez@example.com	22
+1000000179	Sergio	González	1234568068	Calle Nueva 8585	ricardo.jimenez@example.com	21
+1000000180	Elena	Jiménez	1234568069	Calle del Río 8686	alicia.rodriguez@example.com	19
+1000000181	Teresa	Pérez	1234568070	Calle Estrella 8787	raul.perez@example.com	22
+1000000182	Marta	López	1234568071	Calle del Lago 8888	beatriz.sanchez@example.com	20
+1000000183	José	Jiménez	1234568072	Calle Real 8989	marcos.gonzalez@example.com	21
+1000000184	Sandra	Pérez	1234568073	Calle del Bosque 9090	luis.perez@example.com	23
+1000000185	Cristina	Rodríguez	1234568074	Calle Larga 9191	carlos.jimenez@example.com	22
+1000000186	Pablo	Sánchez	1234568075	Calle del Río 9292	patricia.rodriguez@example.com	20
+1000000187	Laura	Jiménez	1234568076	Calle Nueva 9393	raul.jimenez@example.com	24
+1000000188	Clara	González	1234568077	Calle del Lago 9494	sandra.lopez@example.com	19
+1000000189	Ricardo	Jiménez	1234568078	Calle Real 9595	elena.sanchez@example.com	21
+1000000190	Alicia	Rodríguez	1234568079	Calle del Bosque 9696	marcos.lopez@example.com	23
+1000000191	Rául	Pérez	1234568080	Calle Estrella 9797	clara.perez@example.com	19
+1000000192	Beatriz	Sánchez	1234568081	Calle del Río 9898	javier.gonzalez@example.com	24
+1000000193	Marcos	González	1234568082	Calle del Lago 9999	marta.hernandez@example.com	20
+1000000194	Luis	Pérez	1234568083	Calle del Bosque 10000	alvaro.hernandez@example.com	22
+1000000195	Carlos	Jiménez	1234568084	Calle Estrella 10101	beatriz.gonzalez@example.com	21
+1000000196	José	Morales	1234568085	Calle Real 10202	patricia.lopez@example.com	19
+1000000197	Patricia	Rodríguez	1234568086	Calle del Río 10303	marta.sanchez@example.com	21
+1000000198	Raúl	Jiménez	1234568087	Calle Estrella 10404	sandra.sanchez@example.com	23
+1000000199	Sandra	López	1234568088	Calle del Lago 10505	jose.gonzalez@example.com	22
+1000000200	Carmen	Hernández	1234568089	Calle Real 10606	patricia.hernandez@example.com	24
+1000000201	Elena	Sánchez	1234568090	Calle del Bosque 10707	javier.rodriguez@example.com	19
+1000000202	Marcos	López	1234568091	Calle del Río 10808	antonio.jimenez@example.com	21
+1000000203	Clara	Pérez	1234568092	Calle del Lago 10909	sandra.rodriguez@example.com	23
+1000000204	Javier	González	1234568093	Calle Estrella 11010	elena.lopez@example.com	20
+1000000205	Marta	Hernández	1234568094	Calle del Río 11111	carlos.rodriguez@example.com	22
+1000000206	Laura	Rodríguez	1234568095	Calle Nueva 11212	ricardo.hernandez@example.com	19
+1000000207	Álvaro	Hernández	1234568096	Calle Estrella 11313	beatriz.hernandez@example.com	24
+1000000208	Beatriz	González	1234568097	Calle del Lago 11414	clara.hernandez@example.com	23
+1000000209	Patricia	López	1234568098	Calle Real 11515	laura.sanchez@example.com	20
+1000000210	José	Jiménez	1234568099	Calle del Bosque 11616	sandra.gonzalez@example.com	19
+1000000211	Clara	Sánchez	1234568100	Calle del Río 11717	marta.gonzalez@example.com	22
+1000000212	Marta	Sánchez	1234568101	Calle del Lago 11818	alvaro.jimenez@example.com	23
+1000000213	Ricardo	López	1234568102	Calle Estrella 11919	jose.hernandez@example.com	21
+1000000214	Raúl	Pérez	1234568103	Calle Real 12020	elena.gonzalez@example.com	24
+1000000215	Carlos	Hernández	1234568104	Calle del Bosque 12121	javier.hernandez@example.com	19
+1000000216	José	López	1234568105	Calle Estrella 12222	carmen.lopez@example.com	23
+1000000217	Laura	Pérez	1234568106	Calle del Río 12323	alvaro.sanchez@example.com	21
+1000000218	Clara	González	1234568107	Calle Nueva 12424	marta.perez@example.com	22
+1000000219	Sandra	Sánchez	1234568108	Calle del Lago 12525	beatriz.perez@example.com	23
+1000000220	Ricardo	González	1234568109	Calle Estrella 12626	clara.lopez@example.com	24
+1000000221	José	González	1234568110	Calle Real 12727	ricardo.rodriguez@example.com	22
+1000000222	Beatriz	Jiménez	1234568111	Calle del Bosque 12828	sandra.hernandez@example.com	20
+1000000223	Clara	Rodríguez	1234568112	Calle del Río 12929	elena.perez@example.com	19
+1000000224	Patricia	Hernández	1234568113	Calle del Lago 13030	alvaro.rodriguez@example.com	23
+1000000225	Javier	Rodríguez	1234568114	Calle Estrella 13131	alvaro.lopez@example.com	21
